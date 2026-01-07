@@ -640,7 +640,7 @@ VOID WINAPI LW_LoadTaskmanAndScreenSaver(VOID)
  *
  */
 
-BOOL PASCAL LibMain( HINSTANCE hInstance )
+BOOL PASCAL LoadWindows( HINSTANCE hInstance )
 {
         HPEN hPenBlue;
         HBRUSH hBrushRed;
